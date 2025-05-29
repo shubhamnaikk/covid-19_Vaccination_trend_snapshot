@@ -1,6 +1,6 @@
 # COVID-19 Vaccination Trend Snapshot
 
-![Vaccination Rollout](image.png)
+![Vaccination Rollout](thumbnail.png)
 
 ## Overview
 
