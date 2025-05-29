@@ -63,7 +63,7 @@ This will produce the following images in your folder:
 
 ### 1. Cumulative Rollout Curves
 
-![Vaccination Rollout](image.png)
+![Vaccination Rollout](vax_rollout.png)
 
 * **Insight:** The U.S. reached 50% coverage fastest, followed by Brazil and India.
 * **Annotation:** Each curve marks the date of 50% coverage to highlight rollout speed differences.
